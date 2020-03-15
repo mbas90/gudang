@@ -96,6 +96,7 @@
               <input type="hidden" name="barang_masuk" value="<?= $databyid['barang_masuk'] ?>">
               <input type="hidden" name="barang_keluar" value="<?= $databyid['barang_keluar'] ?>">
               <?= form_close() ?>
+
             </div>
           </div>
         </div>
