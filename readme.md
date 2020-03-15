@@ -1,7 +1,3 @@
-###################
-What is CodeIgniter
-###################
-
 # Aplikasi Gudang
 ## Fitur
 - Data Barang
